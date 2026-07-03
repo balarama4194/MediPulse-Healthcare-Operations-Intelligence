@@ -1,0 +1,12 @@
+metric,value
+total_patients,55500.0
+unique_hospitals,39876.0
+unique_doctors,40341.0
+total_billing,1417485967.929394
+average_billing,25540.28771043953
+median_billing,25538.069375965664
+average_length_of_stay,15.50900900900901
+emergency_admission_rate,0.3291711711711712
+abnormal_test_rate,0.3356216216216216
+repeat_visit_proxy_rate,0.14643243243243242
+negative_billing_records,108.0
