@@ -125,16 +125,8 @@ This dashboard enables:
 
 # 📷 Dashboard Preview
 
-## 🏥 Executive Dashboard
-![Executive Dashboard](dashboard_screenshots/executive_dashboard.png)
-
-## 💰 Financial Dashboard
-![Financial Dashboard](dashboard_screenshots/financial_dashboard.png)
-
-## 🩺 Clinical Dashboard
-![Clinical Dashboard](dashboard_screenshots/clinical_dashboard.png)
-
----
+The Power BI dashboards are included in the repository under the `/powerbi` folder.  
+You can open the `.pbix` file in Power BI Desktop to explore the interactive dashboards.
 
 # 🚀 Future Improvements
 
